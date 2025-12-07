@@ -91,7 +91,7 @@ I enjoy:
 ## 📬 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rakesh-chintanippu/">
+  <a href="https://www.linkedin.com/in/rakesh-c-231334329/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
