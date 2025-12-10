@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rakesh Chintanippu</h1>
+<h1 align="center">👋 Hi, I'm Rakesh </h1>
 <h3 align="center">AI Engineer • Full-Stack Python Developer • MLOps & GenAI Specialist</h3>
 
 <p align="center">
