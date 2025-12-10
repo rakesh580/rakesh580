@@ -78,6 +78,8 @@ I enjoy:
 
 ---
 
+
+
 ## 🏆 Achievements
 
 - 🥇 **Outstanding Graduate Research Award – NCA&T**  
@@ -87,7 +89,30 @@ I enjoy:
 - 🔐 Designed SFTP workflows processing **50,000+ daily transactions**  
 
 ---
+## 📚 Certifications
 
+### 🧠 AI & Machine Learning
+- **Machine Learning for All** — *University of London via Coursera*  
+  Credential ID: YGPLVRLX9TED  
+  Built a strong foundation in machine learning, supervised/unsupervised learning, and ethical AI applications.
+
+- **Technical Support Fundamentals** — *Google via Coursera*  
+  Credential ID: 3FH2BTIY3E5U  
+  Covered system administration, networking basics, and troubleshooting skills.
+
+### 🌐 Networking
+- **The Bits and Bytes of Computer Networking** — *Google via Coursera*  
+  [Credential Link](https://www.coursera.org/account/accomplishments/verify/PT5ENB4S5JWQ)  
+  Learned about TCP/IP, packet switching, DNS, and Internet architecture—built solid networking fundamentals.
+
+### 🐍 Python Programming
+- **Programming for Everybody (Getting Started with Python)** — *University of Michigan via Coursera*  
+  Credential ID: YPP85866N5L9  
+  Learned Python basics, functions, loops, and problem-solving techniques.
+
+- **Programming Essentials in Python (PCAP)** — *Cisco Networking Academy*  
+  Focused on object-oriented programming, data structures, and modular coding in Python.
+  
 ## 📬 Let's Connect
 
 <p align="left">
