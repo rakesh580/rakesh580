@@ -102,12 +102,12 @@ I enjoy:
 
 ### 🌐 Networking
 - **The Bits and Bytes of Computer Networking** — *Google via Coursera*  
-  [Credential Link](https://www.coursera.org/account/accomplishments/verify/PT5ENB4S5JWQ)  
+  Credential ID: YPP85866N5L9  
   Learned about TCP/IP, packet switching, DNS, and Internet architecture—built solid networking fundamentals.
 
 ### 🐍 Python Programming
 - **Programming for Everybody (Getting Started with Python)** — *University of Michigan via Coursera*  
-  Credential ID: YPP85866N5L9  
+  Credential ID: PT5ENB4S5JWQ 
   Learned Python basics, functions, loops, and problem-solving techniques.
 
 - **Programming Essentials in Python (PCAP)** — *Cisco Networking Academy*  
