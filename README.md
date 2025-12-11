@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rakesh </h1>
+<h1 align="center">👋 Hi, I'm Rakesh</h1>
 <h3 align="center">AI Engineer • Full-Stack Python Developer • MLOps & GenAI Specialist</h3>
 
 <p align="center">
@@ -78,8 +78,6 @@ I enjoy:
 
 ---
 
-
-
 ## 🏆 Achievements
 
 - 🥇 **Outstanding Graduate Research Award – NCA&T**  
@@ -89,6 +87,7 @@ I enjoy:
 - 🔐 Designed SFTP workflows processing **50,000+ daily transactions**  
 
 ---
+
 ## 📚 Certifications
 
 ### 🧠 AI & Machine Learning
@@ -107,12 +106,25 @@ I enjoy:
 
 ### 🐍 Python Programming
 - **Programming for Everybody (Getting Started with Python)** — *University of Michigan via Coursera*  
-  Credential ID: PT5ENB4S5JWQ 
+  Credential ID: PT5ENB4S5JWQ  
   Learned Python basics, functions, loops, and problem-solving techniques.
 
 - **Programming Essentials in Python (PCAP)** — *Cisco Networking Academy*  
   Focused on object-oriented programming, data structures, and modular coding in Python.
-  
+
+---
+
+## 📈 GitHub Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakesh580&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh580&layout=compact)
+
+### 🐍 Interactive Snake Contribution Graph
+
+![Snake animation](https://github.com/rakesh580/rakesh580/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📬 Let's Connect
 
 <p align="left">
