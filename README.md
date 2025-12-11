@@ -60,7 +60,7 @@ Ngrok-tunneled **Ollama LLaMA-3** for real-time weather insights.
 Built with **FastAPI**, **React**, **WebSockets**, **PostgreSQL**, and AI-powered features  
 like smart replies & sentiment-aware messaging.
 
-🔗 https://github.com/rakesh580/Rchat.ai
+🔗 https://github.com/rakesh580/Rchat.ai-
 
 ---
 
