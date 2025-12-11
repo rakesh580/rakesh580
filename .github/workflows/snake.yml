@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Generate snake
-        uses: platane/snk@latest
+        uses: Platane/snk@v3.2.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: default      # Try "dark", "radical", etc. for variations
