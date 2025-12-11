@@ -119,10 +119,13 @@ I enjoy:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakesh580&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh580&layout=compact)
 
-### 🐍 Interactive Snake Contribution Graph
+### 🐍 Snake GitHub Contribution Graph
 
-![Snake animation](https://github.com/rakesh580/rakesh580/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rakesh580/rakesh580/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rakesh580/rakesh580/blob/output/github-snake.svg" />
+  <img alt="snake animation" src="https://github.com/rakesh580/rakesh580/blob/output/github-snake.svg" />
+</picture>
 ---
 
 ## 📬 Let's Connect
