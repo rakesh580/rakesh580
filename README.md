@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rakesh</h1>
-<h3 align="center">AI Engineer • Full-Stack Software Developer • MLOps & GenAI Specialist</h3>
+<h3 align="center">Full-Stack Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/rakesh580">
@@ -11,7 +11,7 @@
 
 ## 🚀 Who Am I?
 
-I'm a **Full Stack software Engineer ** who loves building **intelligent systems**, **cloud-native microservices**,  
+I'm a **Full Stack software Developer ** who loves building **intelligent systems**, **cloud-native microservices**,  
 and **real-time GenAI applications** that solve real business problems.
 
 I focus on:
