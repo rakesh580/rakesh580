@@ -11,44 +11,44 @@
 
 ## 🚀 Who Am I?
 
-I'm a **Full Stack software Developer ** who loves building **intelligent systems**, **cloud-native microservices**,  
+I'm a Full Stack software Developer who loves building **intelligent systems**, **cloud-native microservices**,  
 and **real-time GenAI applications** that solve real business problems.
 
 I focus on:
 
-- 🤖 **LLM Engineering (RAG, LangChain, OpenAI, Ollama)**
-- ⚡ **Fast, secure APIs (FastAPI, Flask, Spring Boot)**
-- 📡 **AI-powered real-time systems (WebSockets, Streaming, Chatbots)**
-- ☁️ **Cloud & MLOps (AWS, GCP Vertex AI, Docker, Kubernetes)**
-- 🔐 **OAuth2.0, JWT, SSO, RBAC, Secure Integrations**
-- 📁 **SFTP automation & enterprise integrations**
+- 🤖 LLM Engineering (RAG, LangChain, OpenAI, Ollama)
+- ⚡ Fast, secure APIs (FastAPI, Flask, Spring Boot)
+- 📡 AI-powered real-time systems (WebSockets, Streaming, Chatbots)
+- ☁️ Cloud & MLOps (AWS, GCP Vertex AI, Docker, Kubernetes)
+- 🔐 OAuth2.0, JWT, SSO, RBAC, Secure Integrations
+- 📁 SFTP automation & enterprise integrations
 
 Creative engineering + production-quality execution = 🧠⚙️✨
 
 ---
 
-## 🛠️ Tech Stack I Work With
+ 🛠️ Tech Stack I Work With
 
-### **Languages**
+### Languages
 Python · JavaScript · TypeScript · SQL · Java  
 
-### **Frameworks**
+### Frameworks
 FastAPI · Flask · React.js · Next.js · Django · Spring Boot  
 
-### **AI & ML**
+### AI & ML
 LangChain · Vertex AI · BigQuery ML · Transformers · RAG · Ollama  
 
-### **Cloud & DevOps**
+### Cloud & DevOps
 AWS (EKS, Lambda, S3) · GCP · Docker · Kubernetes · GitHub Actions · Jenkins  
 
-### **Databases**
+### Databases
 PostgreSQL · MongoDB · Redis · DynamoDB · BigQuery · Pinecone · Chroma  
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🌦️ **AI Weather Assistant**
+### 🌦️ AI Weather Assistant
 An AI-powered weather assistant using **FastAPI**, **Docker**, **AWS EC2**, and  
 Ngrok-tunneled **Ollama LLaMA-3** for real-time weather insights.
 
@@ -57,7 +57,7 @@ Ngrok-tunneled **Ollama LLaMA-3** for real-time weather insights.
 ---
 
 ### 💬 **Rchat.ai — Real-Time AI Chat Platform**
-Built with **FastAPI**, **React**, **WebSockets**, **PostgreSQL**, and AI-powered features  
+Built with FastAPI, React, WebSockets, PostgreSQL, and AI-powered features  
 like smart replies & sentiment-aware messaging.
 
 🔗 https://github.com/rakesh580/Rchat.ai-
@@ -66,25 +66,25 @@ like smart replies & sentiment-aware messaging.
 
 ## ✨ My Engineering Identity
 
-### 🧠 *“I build AI systems that feel human, and backend systems that scale like machines.”*
+### 🧠 “I build AI systems that feel human, and backend systems that scale like machines.”
 
 I enjoy:
 
-- Designing **distributed, containerized microservices**
-- Building **secure enterprise integrations (OAuth2.0, JWT, SFTP)**
-- Creating **LLM-powered assistants & automation tools**
-- Architecting **ETL + ML pipelines** that serve thousands of users  
-- Turning complex workflows into **clean, reliable APIs**
+- Designing distributed, containerized microservices
+- Building secure enterprise integrations (OAuth2.0, JWT, SFTP)
+- Creating LLM-powered assistants & automation tools
+- Architecting ETL + ML pipelines** that serve thousands of users  
+- Turning complex workflows into **clean, reliable APIs
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Outstanding Graduate Research Award – NCA&T**  
-- 📄 **Published Research Paper** — Secure & Private IoT Data Aggregation  
-- 🏆 **1st Place Hackathon Winner** — Built real-time collaboration platform  
-- 🚀 Built AI systems used by **10K+ users**  
-- 🔐 Designed SFTP workflows processing **50,000+ daily transactions**  
+- 🥇 Outstanding Graduate Research Award – NCA&T
+- 📄 Published Research Paper** — Secure & Private IoT Data Aggregation  
+- 🏆 1st Place Hackathon Winner** — Built real-time collaboration platform  
+- 🚀 Built AI systems used by 10K+ users
+- 🔐 Designed SFTP workflows processing **50,000+ daily transactions 
 
 ---
 
