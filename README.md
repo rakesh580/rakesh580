@@ -59,7 +59,7 @@ A cyber-engineered **Mission Control–style portfolio** featuring:
 Built with **React 19, TypeScript, Tailwind, Gemini AI, and custom SVG engines**  
 to transform a traditional resume into an **interactive AI platform**.
 
-🔗 *Repository link coming soon*
+🔗 https://github.com/rakesh580/Rakesh_Portfolio
 
 ---
 
