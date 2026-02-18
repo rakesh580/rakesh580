@@ -27,7 +27,7 @@ Creative engineering + production-quality execution = 🧠⚙️✨
 
 ---
 
- 🛠️ Tech Stack I Work With
+## 🛠️ Tech Stack I Work With
 
 ### Languages
 Python · JavaScript · TypeScript · SQL · Java  
@@ -48,6 +48,21 @@ PostgreSQL · MongoDB · Redis · DynamoDB · BigQuery · Pinecone · Chroma
 
 ## 🔥 Featured Projects
 
+### 🧠 **Rakesh Portfolio — AI-Powered Interactive Engineering Showcase**
+A cyber-engineered **Mission Control–style portfolio** featuring:
+
+- **Neural Resume Tailor** (Gemini-powered JD matching)
+- **Nexus AI Agent** for conversational recruiter Q&A  
+- **Cortex Project-Driven Skill Mapping** proving real production impact  
+- **Architecture visualizations & distributed system diagrams**
+
+Built with **React 19, TypeScript, Tailwind, Gemini AI, and custom SVG engines**  
+to transform a traditional resume into an **interactive AI platform**.
+
+🔗 *Repository link coming soon*
+
+---
+
 ### 🌦️ AI Weather Assistant
 An AI-powered weather assistant using **FastAPI**, **Docker**, **AWS EC2**, and  
 Ngrok-tunneled **Ollama LLaMA-3** for real-time weather insights.
@@ -57,8 +72,8 @@ Ngrok-tunneled **Ollama LLaMA-3** for real-time weather insights.
 ---
 
 ### 💬 **Rchat.ai — Real-Time AI Chat Platform**
-Built with FastAPI, React, WebSockets, PostgreSQL, and AI-powered features  
-like smart replies & sentiment-aware messaging.
+Built with **FastAPI, React, WebSockets, PostgreSQL**, and AI-powered features  
+like **smart replies & sentiment-aware messaging**.
 
 🔗 https://github.com/rakesh580/Rchat.ai-
 
@@ -73,44 +88,33 @@ I enjoy:
 - Designing distributed, containerized microservices
 - Building secure enterprise integrations (OAuth2.0, JWT, SFTP)
 - Creating LLM-powered assistants & automation tools
-- Architecting ETL + ML pipelines** that serve thousands of users  
-- Turning complex workflows into **clean, reliable APIs
+- Architecting ETL + ML pipelines that serve thousands of users  
+- Turning complex workflows into **clean, reliable APIs**
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 Outstanding Graduate Research Award – NCA&T
-- 📄 Published Research Paper** — Secure & Private IoT Data Aggregation  
-- 🏆 1st Place Hackathon Winner** — Built real-time collaboration platform  
-- 🚀 Built AI systems used by 10K+ users
-- 🔐 Designed SFTP workflows processing **50,000+ daily transactions 
+- 📄 Published Research Paper — Secure & Private IoT Data Aggregation  
+- 🏆 1st Place Hackathon Winner — Built real-time collaboration platform  
+- 🚀 Built AI systems used by **10K+ users**
+- 🔐 Designed SFTP workflows processing **50,000+ daily transactions**
 
 ---
 
 ## 📚 Certifications
 
 ### 🧠 AI & Machine Learning
-- **Machine Learning for All** — *University of London via Coursera*  
-  Credential ID: YGPLVRLX9TED  
-  Built a strong foundation in machine learning, supervised/unsupervised learning, and ethical AI applications.
-
-- **Technical Support Fundamentals** — *Google via Coursera*  
-  Credential ID: 3FH2BTIY3E5U  
-  Covered system administration, networking basics, and troubleshooting skills.
+- **Machine Learning for All** — University of London (Coursera)  
+- **Technical Support Fundamentals** — Google (Coursera)
 
 ### 🌐 Networking
-- **The Bits and Bytes of Computer Networking** — *Google via Coursera*  
-  Credential ID: YPP85866N5L9  
-  Learned about TCP/IP, packet switching, DNS, and Internet architecture—built solid networking fundamentals.
+- **The Bits and Bytes of Computer Networking** — Google (Coursera)
 
 ### 🐍 Python Programming
-- **Programming for Everybody (Getting Started with Python)** — *University of Michigan via Coursera*  
-  Credential ID: PT5ENB4S5JWQ  
-  Learned Python basics, functions, loops, and problem-solving techniques.
-
-- **Programming Essentials in Python (PCAP)** — *Cisco Networking Academy*  
-  Focused on object-oriented programming, data structures, and modular coding in Python.
+- **Programming for Everybody** — University of Michigan  
+- **Programming Essentials in Python (PCAP)** — Cisco Networking Academy
 
 ---
 
@@ -135,7 +139,7 @@ I enjoy:
 ---
 
 ## ⚡ Fun Fact
-I love taking ideas from *“What if we…?”* → to → *Production-ready AI systems*  
+I love taking ideas from *“What if we…?”* → to → **Production-ready AI systems**  
 that developers & users actually enjoy using.
 
 ---
