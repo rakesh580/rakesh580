@@ -64,8 +64,7 @@ to transform a traditional resume into an **interactive AI platform**.
 ---
 
 ### 🌦️ AI Weather Assistant
-An AI-powered weather assistant using **FastAPI**, **Docker**, **AWS EC2**, and  
-Ngrok-tunneled **Ollama LLaMA-3** for real-time weather insights.
+A real-time weather application with AI-powered chat, interactive maps, and smart clothing recommendations.
 
 🔗 https://github.com/rakesh580/Weather_App
 
