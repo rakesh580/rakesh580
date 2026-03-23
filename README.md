@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/rakesh-c-231334329/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
+<a href="mailto:rakeshswe2026@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
 <a href="https://github.com/rakesh580">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
@@ -43,6 +46,33 @@ class Rakesh:
 - **Real-Time Architecture** — WebSockets with Redis pub/sub, live price streaming, typing indicators
 - **Enterprise Security** — JWT auth, OAuth 2.0, rate limiting, CORS, CSP headers, circuit breakers
 - **Cloud & DevOps** — Docker Compose orchestration, GitHub Actions CI/CD, AWS EC2, multi-stage builds
+
+---
+
+### `> cat /status/now`
+
+<table>
+<tr>
+<td>🔭 <strong>Currently Building</strong></td>
+<td>AI-powered enterprise platforms with LangGraph agents & vector search</td>
+</tr>
+<tr>
+<td>🌱 <strong>Currently Learning</strong></td>
+<td>Kubernetes at scale, Advanced LLM orchestration, Multi-agent systems</td>
+</tr>
+<tr>
+<td>👯 <strong>Looking to Collaborate</strong></td>
+<td>Open-source AI/ML tools, Full-stack SaaS platforms</td>
+</tr>
+<tr>
+<td>💬 <strong>Ask Me About</strong></td>
+<td>FastAPI, React, RAG pipelines, real-time systems, LangGraph</td>
+</tr>
+<tr>
+<td>⚡ <strong>Fun Fact</strong></td>
+<td>I've processed 50K+ daily transactions & served 10K+ users in production</td>
+</tr>
+</table>
 
 ---
 
@@ -232,6 +262,11 @@ JUN 2020 – JUL 2022 ║  Software Engineer @ Capgemini Technology Services
 
 <div align="center">
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=rakesh580&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="95%" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=rakesh580&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&ring_color=00FFB3" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh580&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FFB3&ring=00FFB3&fire=ff6348&currStreakLabel=00FFB3" width="49%" />
 
@@ -251,6 +286,30 @@ JUN 2020 – JUL 2022 ║  Software Engineer @ Capgemini Technology Services
 
 ---
 
+### `> cat /contrib/snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakesh580/rakesh580/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakesh580/rakesh580/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rakesh580/rakesh580/output/github-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+---
+
+### `> echo $QUOTE`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%" />
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FFB3,100:00d4ff&height=120&section=footer" width="100%" />
@@ -264,6 +323,9 @@ JUN 2020 – JUL 2022 ║  Software Engineer @ Capgemini Technology Services
 </a>&nbsp;
 <a href="https://rakesh580.github.io/Rakesh_Portfolio/">
   <img src="https://img.shields.io/badge/View_Portfolio-00FFB3?style=for-the-badge&logo=firefox&logoColor=000" />
+</a>&nbsp;
+<a href="mailto:rakeshswe2026@gmail.com">
+  <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
