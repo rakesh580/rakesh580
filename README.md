@@ -262,10 +262,6 @@ JUN 2020 – JUL 2022 ║  Software Engineer @ Capgemini Technology Services
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=rakesh580&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="95%" />
-
-<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rakesh580&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&ring_color=00FFB3" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh580&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FFB3&ring=00FFB3&fire=ff6348&currStreakLabel=00FFB3" width="49%" />
