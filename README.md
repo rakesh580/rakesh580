@@ -286,11 +286,7 @@ JUN 2020 – JUL 2022 ║  Software Engineer @ Capgemini Technology Services
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakesh580/rakesh580/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakesh580/rakesh580/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rakesh580/rakesh580/output/github-snake-dark.svg" width="95%" />
-</picture>
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rakesh580/rakesh580/output/github-snake-dark.svg" width="95%" />
 
 </div>
 
