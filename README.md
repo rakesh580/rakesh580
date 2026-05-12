@@ -210,4 +210,42 @@ LLaMA 3.3 &middot; Mistral-7B &middot; LangGraph &middot; ChromaDB &middot; Sent
 
 ---
 
+### `> cat /opensource/contributions`
+
+<table>
+<tr>
+<td valign="top">
+
+#### <img src="https://img.shields.io/badge/MERGED-00FFB3?style=flat-square&logoColor=000" /> [camel-ai/camel](https://github.com/camel-ai/camel/pull/3992) — Embeddings Module Hardening
+
+> **Python | pytest | LLM Framework | 16k+ ⭐ repo**
+
+Merged contribution to **[camel-ai/camel](https://github.com/camel-ai/camel)** — a production multi-agent framework with **16k+ GitHub stars**, used by AI engineers worldwide. Standardized dependency-error handling across the entire embeddings module by applying `@dependencies_required` decorators to all nine embedding classes.
+
+**Problem:** missing optional packages (`mistralai`, `google.genai`, `openai`, etc.) threw confusing `AttributeError` tracebacks deep inside `__init__`, leaving users guessing what to install.
+
+**Solution:** clean `ImportError` with the exact `pip install` command. Plus alphabetized `__all__` in `__init__.py` for consistency across the package.
+
+- **Closed:** Issue [#1043](https://github.com/camel-ai/camel/issues/1043) — long-standing developer-experience issue
+- **Tests:** 9 new unit tests using `unittest.mock` — one for every embedding class
+- **Example Script:** demonstrates both normal usage and the graceful error path
+- **Reviewed & Merged By:** maintainer [@fengju0213](https://github.com/fengju0213) (Tao Sun)
+- **Files Changed:** 12 files &middot; +335 / −13 lines
+
+`OpenAIEmbedding` &middot; `AzureEmbedding` &middot; `MistralEmbedding` &middot; `GeminiEmbedding` &middot; `JinaEmbedding` &middot; `TogetherEmbedding` &middot; `SentenceTransformerEncoder` &middot; `VisionLanguageEmbedding` &middot; `OpenAICompatibleEmbedding`
+
+<br/>
+
+<a href="https://github.com/camel-ai/camel/pull/3992"><img src="https://img.shields.io/badge/View_Merged_PR-181717?style=for-the-badge&logo=github&logoColor=00FFB3" /></a>&nbsp;
+<a href="https://github.com/camel-ai/camel/issues/1043"><img src="https://img.shields.io/badge/Closed_Issue_%231043-EA4335?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/camel-ai/camel"><img src="https://img.shields.io/badge/camel--ai%2Fcamel-00FFB3?style=for-the-badge&logoColor=000" /></a>
+
+</td>
+</tr>
+</table>
+
+> *More OSS contributions in progress — focused on developer-experience improvements, error handling, and test coverage in widely-used AI/ML frameworks.*
+
+---
+
 ### `> cat /career/timeline`
